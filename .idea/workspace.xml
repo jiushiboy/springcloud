@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+    <option name="FILTER_RESOLVED_ITEMS" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f547ad9-32d3-43e3-909c-ed70d9420164" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wenchang" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\develop\software\apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\develop\software\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1nEKvqo3ie2UKUrUS1FQxNDaqjh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiushiboy.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f547ad9-32d3-43e3-909c-ed70d9420164" name="Default Changelist" comment="" />
+      <created>1610950043409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610950043409</updated>
+      <workItem from="1610950044626" duration="1919000" />
+      <workItem from="1610951977941" duration="1140000" />
+      <workItem from="1610953495335" duration="3452000" />
+      <workItem from="1610961846478" duration="287000" />
+      <workItem from="1610962149838" duration="1525000" />
+      <workItem from="1611035999545" duration="4784000" />
+      <workItem from="1611043461256" duration="2265000" />
+      <workItem from="1611049110423" duration="1118000" />
+      <workItem from="1611050271831" duration="1622000" />
+      <workItem from="1611105624706" duration="2089000" />
+    </task>
+    <task id="LOCAL-00001" summary="支付模块">
+      <created>1611106020168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611106020168</updated>
+    </task>
+    <task id="LOCAL-00002" summary="支付模块">
+      <created>1611107496732</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611107496732</updated>
+    </task>
+    <task id="LOCAL-00003" summary="支付模块">
+      <created>1611107585666</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611107585666</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="支付模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="支付模块" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Project_Structure" timestamp="1611106396445">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1611106396445" />
+    <state x="134" y="30" width="1118" height="667" key="CommitChangelistDialog2" timestamp="1611107585151">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="134" y="30" width="1118" height="667" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1611107585151" />
+    <state x="258" y="91" key="DiffContextDialog" timestamp="1611107435711">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="258" y="91" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1611107435711" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1611107239937">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1611107239937" />
+    <state width="1031" height="172" key="GridCell.Tab.0.bottom" timestamp="1611107716866">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1031" height="172" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1611107716866" />
+    <state width="1031" height="172" key="GridCell.Tab.0.center" timestamp="1611107716866">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1031" height="172" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1611107716866" />
+    <state width="1031" height="172" key="GridCell.Tab.0.left" timestamp="1611107716866">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1031" height="172" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1611107716866" />
+    <state width="1031" height="172" key="GridCell.Tab.0.right" timestamp="1611107716866">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1031" height="172" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1611107716866" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1611107197309">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1611107197309" />
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1611107603868">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1611107603868" />
+    <state x="22" y="107" width="1182" height="584" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1611107039452">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="22" y="107" width="1182" height="584" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1611107039452" />
+    <state x="97" y="63" key="new project wizard" timestamp="1611046890061">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="97" y="63" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1611046890061" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1610950973473">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1610950973473" />
+    <state x="513" y="174" key="svn.repositoryBrowser" timestamp="1611105822564">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="513" y="174" key="svn.repositoryBrowser/0.0.1366.768@0.0.1366.768" timestamp="1611105822564" />
+  </component>
+</project>
