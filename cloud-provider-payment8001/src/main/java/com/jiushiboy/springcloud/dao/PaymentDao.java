@@ -17,6 +17,7 @@ public interface PaymentDao {
 
     /**
      * 查询多条数据
+     *
      * @return
      */
     @Select("select * from payment")
@@ -25,6 +26,7 @@ public interface PaymentDao {
 
     /**
      * 添加单条数据
+     *
      * @param payment
      * @return
      */
@@ -33,7 +35,8 @@ public interface PaymentDao {
 
     /**
      * 单条数据查询
-     * @param id  主键
+     *
+     * @param id 主键
      * @return 返回结果
      */
     public Payment getPaymentById(@Param("id") Long id);

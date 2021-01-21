@@ -12,6 +12,8 @@ import java.util.List;
 public interface PaymentService {
     @SuppressWarnings("AlibabaAbstractMethodOrInterfaceMethodMustUseJavadoc")
     public int create(Payment payment);
+
     public Payment getPaymentById(Long id);
+
     public List<Payment> getAll();
 }
