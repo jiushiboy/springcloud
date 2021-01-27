@@ -27,6 +27,7 @@ public class PaymentController {
     @Resource
     private PaymentService paymentService;
 
+
     @Resource
     private DiscoveryClient discoveryClient;
 
@@ -74,14 +75,16 @@ public class PaymentController {
     @GetMapping("/payment/discovery")
     public Object discovery(){
         List<String> services = discoveryClient.getServices();
-        for (String element : services) {
-            log.info("***element:"+element);
+        for (String service : services) {
+            log.info("***element:"+service);
         }
-        List<ServiceInstance> instances = discoveryClient.getInstances("CLOUD-PAYMENT-SERVICE");
+
+        List<ServiceInstance> instances = discoveryClient.getInstances("cloud-payment-service");
         for (ServiceInstance instance : instances) {
             log.info(instance.getServiceId()+"\t"+instance.getHost()+"\t"+instance.getPort()+"\t"+instance.getUri());
         }
-        return this.discoveryClient;
+
+        return discoveryClient;
     }
 
 }
