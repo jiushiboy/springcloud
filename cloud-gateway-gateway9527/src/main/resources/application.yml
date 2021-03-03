@@ -11,19 +11,19 @@ spring:
       routes:
       - id: payment_routh #路由的ID，没有固定规则但要求唯一，建议配合服务名
         #uri: http://localhost:8001   #匹配后提供服务的路由地址
-        uri: lb://cloud-payment-service #匹配后提供服务的动态路由地址
+        uri: lb://cloud-payment-com.jiushiboy.springcloud.service #匹配后提供服务的动态路由地址
         predicates:
           - Path=/payment/get*/**   #断言,路径相匹配的进行路由
 
       - id: payment_routh2
         #uri: http://localhost:8001
-        uri: lb://cloud-payment-service #匹配后提供服务的动态路由地址
+        uri: lb://cloud-payment-com.jiushiboy.springcloud.service #匹配后提供服务的动态路由地址
         predicates:
           - Path=/payment/getAll/**   #断言,路径相匹配的进行路由
 
 eureka:
   instance:
-    hostname: cloud-gateway-service
+    hostname: cloud-gateway-com.jiushiboy.springcloud.service
   client:
     service-url:
       register-with-eureka: true
