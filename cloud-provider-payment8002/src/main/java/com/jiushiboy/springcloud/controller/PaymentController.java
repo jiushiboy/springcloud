@@ -79,7 +79,7 @@ public class PaymentController {
             log.info("***element:"+service);
         }
 
-        List<ServiceInstance> instances = discoveryClient.getInstances("cloud-payment-service");
+        List<ServiceInstance> instances = discoveryClient.getInstances("cloud-payment-com.jiushiboy.springcloud.service");
         for (ServiceInstance instance : instances) {
             log.info(instance.getServiceId()+"\t"+instance.getHost()+"\t"+instance.getPort()+"\t"+instance.getUri());
         }

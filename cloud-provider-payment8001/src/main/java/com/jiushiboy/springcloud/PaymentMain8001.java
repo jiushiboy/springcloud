@@ -7,7 +7,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 /**
- * @author wenchang
+ * @author 1450495810
  */
 
 @EnableEurekaClient
