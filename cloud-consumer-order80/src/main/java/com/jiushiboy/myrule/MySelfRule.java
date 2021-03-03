@@ -14,7 +14,8 @@ public class MySelfRule {
 
     @Bean
     public IRule myRule() {
-        return new RandomRule(); //随机
+        //随机
+        return new RandomRule();
     }
 
 }
