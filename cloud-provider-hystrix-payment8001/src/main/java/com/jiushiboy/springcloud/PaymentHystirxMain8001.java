@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.context.annotation.Bean;
 
 /**
- * @Author sh
+ * @Author 1450495810
  * @Date 2021/2/22 17:22
  */
 
@@ -23,7 +23,7 @@ public class PaymentHystirxMain8001 {
     }
 
     @Bean
-    public ServletRegistrationBean getServlet(){
+    public ServletRegistrationBean getServlet() {
         HystrixMetricsStreamServlet streamServlet = new HystrixMetricsStreamServlet();
         ServletRegistrationBean registrationBean = new ServletRegistrationBean(streamServlet);
         registrationBean.setLoadOnStartup(1);
